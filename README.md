@@ -17,7 +17,7 @@ First, add MageSpec to the list of dependencies inside your `composer.json` and 
 ```json
 {
     "require-dev": {
-        "magetest/magento-phpspec-extension": "*"
+        "magetest/magento-phpspec-extension": "dev-develop"
     },
     "config": {
         "bin-dir": "bin"
